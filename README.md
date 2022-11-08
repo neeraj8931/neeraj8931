@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a front-end developer.
+- 🌱 I’m currently learning React.js and Node.js
+- 👯 I’m looking to collaborate on React projects.
+- 🤔 I’m looking for help with Node.js
+- 📫 How to reach me: https://www.linkedin.com/in/erneerajshukla1010/
